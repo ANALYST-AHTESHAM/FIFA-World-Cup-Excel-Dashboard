@@ -68,7 +68,7 @@ FIFA-World-Cup-Excel-Dashboard/
 ## 🙌 Credits
 
 Data compiled from publicly available FIFA World Cup historical statistics.
-Dashboard designed and built by **[Your Name]**.
+Dashboard designed and built by **[Ahtesham Ahmad]**.
 
 ---
 
