@@ -3,7 +3,7 @@
 
 An interactive, visually rich **Excel dashboard** that summarizes the complete history and results of the **FIFA World Cup** — built entirely with native Excel features (PivotTables, PivotCharts, slicers, and dynamic formulas). No add-ins, no macros — just clean data modeling and design.
 
-![FIFA](((https://github.com/ANALYST-AHTESHAM/FIFA-World-Cup-Excel-Dashboard/blob/main/FIFA%20World%20Cup%20Excel%20DashBoard%20-%20Excel%2008-07-2026%2019_17_21.png)assets/dashboard-preview.png))
+![FIFA](https://github.com/ANALYST-AHTESHAM/FIFA-World-Cup-Excel-Dashboard/blob/main/FIFA%20World%20Cup%20Excel%20DashBoard%20-%20Excel%2008-07-2026%2019_17_21.png)
 ## 📊 Overview
 
 This dashboard delivers a one-page, executive-style summary of FIFA World Cup history — perfect for football fans, data analysts, or anyone looking to showcase Excel dashboarding skills in a portfolio.
